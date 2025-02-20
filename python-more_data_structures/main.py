@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 filtering_data = __import__('17-filtering_data').filtering_data
 
 employees = [
